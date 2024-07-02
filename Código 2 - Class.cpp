@@ -1,28 +1,3 @@
-// #include <iostream>
-// #include <ctime>
-
-// using namespace std;
-
-// class 
-
-// int main() {
-    
-//     time_t tempo_atual = time(nullptr);
-
-//     struct tm* data_hora = localtime(&tempo_atual);
-
-    
-//     int dia = data_hora->tm_mday;
-//     int mes = data_hora->tm_mon + 1; 
-  
-//     int ano = 1900 + data_hora->tm_year; 
-
-
-//     cout << "Data atual: " << dia << "/" << mes << "/" << ano << endl;
-
-//     return 0;
-// }
-
 #include <iostream>
 
 using namespace std;
